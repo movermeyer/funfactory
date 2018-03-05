@@ -6,7 +6,7 @@ settings.
     :target: https://travis-ci.org/mozilla/funfactory
 .. image:: https://coveralls.io/repos/mozilla/funfactory/badge.png?branch=master
     :target: https://coveralls.io/r/mozilla/funfactory
-.. image:: https://pypip.in/v/funfactory/badge.png
+.. image:: https://img.shields.io/pypi/v/funfactory.svg
     :target: https://crate.io/packages/funfactory
 
 Install
